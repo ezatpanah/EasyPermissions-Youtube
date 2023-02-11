@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Easy Permissions - Youtube</string>
+    <string name="granted_msg">All the permissions are granted...</string>
+    <string name="not_granted_msg">All the permissions are not granted...</string>
+    <string name="request_msg">These permissions are required for this application.</string>
+</resources>
