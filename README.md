@@ -4,14 +4,14 @@
 
 YouTube Video 
 <br> 
-<a href="" target="_blank"><img alt="Ezatpanah Flow-Database-Youtube" src="EasyPermissions-lib-cover.jpg" width="60%"></a>
+<a href="https://youtu.be/2WYnarWOmKs" target="_blank"><img alt="Ezatpanah Flow-Database-Youtube" src="EasyPermissions-lib-cover.jpg" width="60%"></a>
 
 
 
 <br> <br> 
 Article on Medium:
 <br>
-
+https://androidgeek.co/how-to-use-easy-permissions-in-kotlin-complete-guide-b0eb4d02dc3
 <br>
 <br>
 
